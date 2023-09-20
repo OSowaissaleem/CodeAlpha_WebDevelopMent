@@ -1,0 +1,19 @@
+body{
+	/* background: linear-gradient(to right,#00ff00,#ff0000); */
+	background: linear-gradient(to right,#5271FF,#f198ec);
+
+}
+div{
+	text-align: center;
+}
+h1{
+	letter-spacing: 5px;
+	text-align: center;
+	color: #ffffff;
+	width: 100%;
+}
+h2,h3{
+	text-align: center;
+	color: #ffffff;
+
+}
